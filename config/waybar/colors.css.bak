@@ -1,0 +1,6 @@
+
+@define-color bg #272a34;
+@define-color fg #f9f9f9;
+@define-color black #23252e;
+@define-color green #2BE491;
+@define-color gr #363749;
